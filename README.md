@@ -16,4 +16,4 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ## Output
-<img  alt="HTML5" width="30px" src="./Capture.PNG" />
+<img  alt="HTML5" width="300px" src="./Capture.PNG" />
